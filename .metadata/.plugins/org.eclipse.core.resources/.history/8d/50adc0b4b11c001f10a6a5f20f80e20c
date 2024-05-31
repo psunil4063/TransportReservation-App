@@ -1,0 +1,6 @@
+package org.jsp.reservation_app.repository
+;
+
+public class UserRepository {
+
+}

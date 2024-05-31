@@ -1,0 +1,4 @@
+spring.application.name=demo
+spring.mail.port=587
+spring.mail.username=sunilkumar143@gmail.com
+spring.mail
